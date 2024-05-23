@@ -3,9 +3,9 @@
 <package format="3">
   <name>dexhand_ble_serial</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="jhseon@todo.todo">jhseon</maintainer>
-  <license>TODO: License declaration</license>
+  <description>ROS 2 Package for Connecting to DexHand Firmware Serial Interface via BLE </description>
+  <maintainer email="sunutf@gmail.com">Daniel Seon</maintainer>
+  <license>CC BY-NC-SA 4.0</license>
 
   <depend>rclpy</depend>
   <depend>bleak</depend>
